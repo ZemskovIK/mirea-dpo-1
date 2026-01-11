@@ -2,5 +2,6 @@
 
 ## Ссылки
 
-- [Публичная страница на GitHub Pages](https://zemskovik.github.io/mirea-dpo-frontend-1/)
+- [Публичная страница на GitHub Pages](https://zemskovik.github.io/mirea-dpo-1/)
+
 
